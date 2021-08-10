@@ -1,8 +1,8 @@
-Origin: Sidia
-Label: Sidia
+Origin: Boaz's Repository
+Label: Boaz's Repository
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Sidia - a modern cydia / sileo apt repository template
+Description: Welcome to Boaz van der Wansem's repository for iOS packages!
